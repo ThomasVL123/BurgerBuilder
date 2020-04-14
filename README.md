@@ -1,1 +1,1 @@
-Udemy project "Burger Builder" written in ReactJS
+Udemy project "Burger Builder" written in ReactJS.
